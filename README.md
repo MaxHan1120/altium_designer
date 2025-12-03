@@ -44,9 +44,11 @@
 
 ### **3. 元件庫（Library）建立**
 
-6. [Symbol Library（原理圖元件）](03_create_library.md)  
-7. 製作新的元件庫並且封裝
-8. 製作 chip, pad 等等
+7. [Symbol Library（原理圖元件）](03_create_library.md)  
+8. **如何新增元件(Add library)**
+9. **如何封裝(Add footprint)**
+10. **如何叫出新增的原件**
+   
 
 ---
 

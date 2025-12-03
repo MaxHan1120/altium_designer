@@ -15,7 +15,7 @@
 
 2. [製作 Symbol / Footprint → 連結 Symbol ↔ Footprint](03_create_library)
 
-3. 製作 PCB（Design → Update to PCB）(複製學長姐的檔案來修改)
+3. [製作 PCB（Schematic Design → Update to PCB）(複製學長姐的檔案來修改)](04_pcb.md)
 
 4. 連結 PCB 與 Schematics 的元件
 
@@ -33,41 +33,6 @@
 小板上原則上只會有 Chip(要自己做屬於自己的 chip 元件，詳細見 [03_create_library.md](03_create_library.md))、Pad、穩壓電容(視需求給 SMA )
 
 而大板上要有連接大小板的 Pad， LDO 、穩壓電容、JUMPER等等，後續會再說明
-
----
-
-## ⌨️ Altium 必備熱鍵（最常用）
-
-### 📌 **Schematic（原理圖）**
-- 放元件：`P` → `P`
-- 放線 Wire：`P` → `W`
-- 放 Net Label：`P` → `N`
-- 放 Power：`P` → `V`
-- 移動：`M` → `M`
-- 旋轉：`Space`
-- 選取區塊：拖曳滑鼠（右到左是包含）
-
----
-
-### 📌 **PCB Layout（佈局 + 走線）**
-- 移動元件：`M` → `M`
-- 旋轉元件：`Space`
-- 開始走線：點 Net → `Space`
-- 推擠路徑（推線）：`Shift` + `R`
-- 改變線寬：`Tab`（進入屬性修改）
-- 倒角/彎角切換：`Space`
-- 查看層：`+` / `-`
-- 增加過孔（vias）：走線中按 `2`
-
----
-
-## 🎯 對初學者最重要的觀念
-
-- 原理圖決定邏輯  
-- PCB 決定能不能正常運作  
-- Design Rules 一定要一開始就設好  
-- 電源與地線絕對要乾淨  
-- 3D View 一定要檢查 footprint 對不對  
 
 ---
 
