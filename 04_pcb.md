@@ -96,4 +96,8 @@
 - 要畫線的話 `按右鍵 → Place → Line` 就可以畫線了，然後可以用 Property 調整線的粗細、材質、Net
 - `SHIFT` + `CTRL` + `r/l/t/b`：對齊所選的元件，分別是靠右/左/上/下 對齊
 - `SHIFT` + `CTRL` + `h/v`：平分所選元件的距離，分別是水平平分/垂直平分
-- 
+- 想到再補
+  
+## 👉 下一章：設定 DRC rule
+前往：**[05_drc_setup.md](05_drc_setup.md)**
+     
