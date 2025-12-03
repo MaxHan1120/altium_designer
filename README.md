@@ -5,6 +5,7 @@
 > **讓第一次使用 Altium 的初學者，也能獨立完成一塊屬於自己的 PCB。**
 
 但由於我也是第一次使用 Altium 畫自己的 PCB ，因此可能不是太專業，就當作留個紀錄。
+而更詳細的內容可以直接去參考 [AD-DM.pdf](AD_DM.pdf)
 
 本檔案會從最基本的 Schematics 開始，到 Footprint 建立、PCB Layout、Routing、DRC、鋪銅以及最後檔案輸出。
 

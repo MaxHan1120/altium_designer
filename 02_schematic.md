@@ -6,7 +6,7 @@
 2. **如何繪製原理圖(Schematics)**
 3. **如何打開 library 並放置元件**
 4. **一些常用的快捷鍵**
-   
+
 ---
 
 ## 開啟新專案 & Schematics
@@ -73,7 +73,7 @@
 - (如底下附圖的紅線與文字)
    ![示意圖](images/02_schematic/Example.png)
 
-如此基本上就可以完成 Schematic 的繪製，下一張會介紹要如何自己製作 Library (像是 chip、pad 等等)
+如此基本上就可以完成 Schematic 的繪製，下一章會介紹要如何自己製作 Library (像是 chip、pad 等等)
 ## 👉 下一章：如何建立新的library  
 前往：**[03_create_library.md](03_create_library.md)**
-   
+
